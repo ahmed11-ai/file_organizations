@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\start\\source\\repos\\Indexed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF609E2C-7E3E-40EB-8AB6-50CF8F5250AA}|Indexed\\Indexed.vcxproj|C:\\Users\\start\\source\\repos\\Indexed\\Indexed\\Indexed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF609E2C-7E3E-40EB-8AB6-50CF8F5250AA}|Indexed\\Indexed.vcxproj|solutionrelative:Indexed\\Indexed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 115,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Indexed.cpp",
+              "DocumentMoniker": "C:\\Users\\start\\source\\repos\\Indexed\\Indexed\\Indexed.cpp",
+              "RelativeDocumentMoniker": "Indexed\\Indexed.cpp",
+              "ToolTip": "C:\\Users\\start\\source\\repos\\Indexed\\Indexed\\Indexed.cpp",
+              "RelativeToolTip": "Indexed\\Indexed.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T15:22:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
