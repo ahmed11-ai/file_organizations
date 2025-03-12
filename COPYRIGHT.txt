@@ -1,2 +1,0 @@
-Copyright (C) 2025 Abdelrhman Gheith. All rights reserved.
-This code is proprietary and may not be copied, modified, or distributed without explicit permission from the author.
